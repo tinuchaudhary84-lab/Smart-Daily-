@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">સ્માર્ટ દૈનિક હિસાબ</string>
+    <string name="nav_home">હોમ</string>
+    <string name="nav_history">ઇતિહાસ</string>
+    <string name="nav_add">ઉમેરો</string>
+    <string name="nav_reports">રિપોર્ટ</string>
+    <string name="nav_settings">સેટિંગ્સ</string>
+    <string name="available_balance">ઉપલબ્ધ બેલેન્સ</string>
+    <string name="total_income">કુલ આવક</string>
+    <string name="total_expenses">કુલ ખર્ચ</string>
+    <string name="today_expenses">આજનો ખર્ચ</string>
+    <string name="month_expenses">આ મહિનાનો ખર્ચ</string>
+    <string name="save_transaction">વ્યવહાર સાચવો</string>
+</resources>

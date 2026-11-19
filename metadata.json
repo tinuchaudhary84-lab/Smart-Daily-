@@ -1,0 +1,6 @@
+{
+  "name": "Smart Daily Hisab",
+  "description": "Offline-first personal daily income and expense manager with PIN lock security, Gujarati/Hindi/English support, interactive reports, and local data backup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

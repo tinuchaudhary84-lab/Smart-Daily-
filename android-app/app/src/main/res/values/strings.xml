@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Smart Daily Hisab</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_history">History</string>
+    <string name="nav_add">Add</string>
+    <string name="nav_reports">Reports</string>
+    <string name="nav_settings">Settings</string>
+    <string name="available_balance">Available Balance</string>
+    <string name="total_income">Total Income</string>
+    <string name="total_expenses">Total Expenses</string>
+    <string name="today_expenses">Today\'s Expenses</string>
+    <string name="month_expenses">This Month\'s Expenses</string>
+    <string name="save_transaction">SAVE TRANSACTION</string>
+</resources>
